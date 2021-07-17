@@ -1,4 +1,4 @@
 git add .
-git commit -m "autoupload"
+git commit -m "autosave"
 git push
 PAUSE
